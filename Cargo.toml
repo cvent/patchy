@@ -222,7 +222,7 @@ reqwest = { version = "0.12", default-features = false, features = [
   "rustls-tls",
 ] }
 serde_json = "1.0"
-tempfile = "3.14"
+tempfile = "3.26.0"
 rand = "0.8"
 colored = "2.2"
 dialoguer = "0.11"
